@@ -1,0 +1,19 @@
+# Fichiers sensibles
+.env
+app.log
+**/.env
+*/.env
+# Environnements virtuels
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.idea/
+test.http
+print_dir_structure_v2.py
+
+# Fichiers système
+.DS_Store
+Thumbs.db
